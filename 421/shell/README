@@ -1,0 +1,11 @@
+simple_shell.c contains 5(excluding main) functions to help build a basic *nix shell.
+
+void start_shell() keeps the shell running while the user doesn't ask to exit. It handles a few edge cases but mostly calls on the other functions
+
+char* read_input(char* input) creates a buffer and reads the users input putting each character into the buffer.Reallocating if necessary
+
+char** parse_input() is closely similar to read_input(). It calls on the strtok function to split the buffer provided into its separate arguments/strings.
+
+int execute(char **args) uses the fork() and execvp function to execute the shell commands given to the simple_shell by the user.
+
+void clean_up(char **args, char *input) cleans up the memory that was allocated during the process of the shell. 
