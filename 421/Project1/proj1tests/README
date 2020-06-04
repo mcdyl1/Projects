@@ -1,0 +1,29 @@
+Type make inside this directory(proj1tests) to compile all tests files.
+Some personal tests were done just by editing these files.
+
+proj1_init.c: Basic implementation of init system call
+
+proj1_shutdown.c: Basic implementation of shutdown system call
+
+proj1_create.c: Basic implementation of create system call
+
+proj1_destroy.c: Basic implementation of destroy system call
+
+proj1_count.c: Basic implementation of count system call
+
+proj1_send.c: Basic implementation of send system call
+
+proj1_recv.c: Basic implementation of recv system call
+
+proj1_length.c: Basic implementation of length system call
+
+proj1_acl_add.c: Basic implementation of acl_add system call
+
+proj1_acl_remove.c: Basic implementation of acl_remove system call
+
+proj1_nolist.c: Attempts to run every system call without initializing the list
+
+proj1_notroot.c: Run as not root to test root authentication. All system calls should fail as init cannot run without being root, therefore no list exists(like previous test)
+
+proj1_notexist.c: Run as root. Creates mailbox with ID 1, destroys it then has other system calls try to access it.
+

@@ -1,0 +1,5 @@
+skiplist.c is a user-space prototype of the main data structure for project 1. It implements the basic functionalities of a skiplist including insertion, deletion, and searching. It also features a skiplist_print function that prints out the nodes ids and how they are formated in the skiplist. Inside main there is a basic test of the functions.
+
+Edge case checking and error checking still need to be implemented. As well as some comments and better formatting of the code. All of which will be present when the code is transfered over from user-space to kernel-space.
+
+(pseudocode of a skiplist was followed/referenced from "Skip Lists: A Probabilistic Alternative to Balanced Trees" by William Pugh)

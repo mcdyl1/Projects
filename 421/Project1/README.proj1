@@ -1,0 +1,12 @@
+Main code is inside directory "mailbox"
+
+The basic ideas/functions of the project were tested inside a user space prototype before transfering to the kernel. I confirmed the user space structure ran without errors and contained no memory leaks. The code was then transfered to the kernel, adding what couldn't be implemented in the userspace prototype, and adding more error checking.
+
+The ACL and Message Queues are implemented using linked list. Locking was not implemented(tried to implement couldn't get anything going and ran out of time). 
+
+(pseudocode of skiplist structure was followed/referenced from "Skip Lists: A Probabilistic Alternative to Balancd Trees" by William Pugh)
+
+(Strategy to seed the random number came from kernel.org under ktime accessors)
+
+(Error codes came from project document and numi.fnal.gov - which contained a list of Linux System Errors)
+
