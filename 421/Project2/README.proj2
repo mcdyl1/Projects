@@ -1,0 +1,34 @@
+This project creates a new version of the Linux Kernel that adds functionality to support a simple permission system for using system
+calls. This system works by maintaining an array where each index matches up to the number of the system call in the kernel. Each index/
+system call in the array is a skiplist organized by using the process IDs of the processes blocked from using that system call. 
+
+Inside include/linux is the header file proj2.h (include/linux/proj2.h) which declares 2 structs, SkipNode and SkipList, and defines some
+constant values and declares an accessor function for the data structure. The most interesting value to note here is the max level possible
+for the nodes in the skiplist. 31 was the value chosen because 2^31 represents the maximum value of a PID as PIDs are ints and can only be
+positive. 
+
+The system calls themselves are implemented inside the file proj2/kernel/proj2code.c. The first function of note here is the 
+get_random_level function, which does just as the name specifies. It gets the random level that will be assigned when a node(process) is
+added to the skiplist. It makes use of the get_random_bytes function and takes the absolute value then returns that value as the level. 
+Next comes the declaration of the array of each system calls skiplist and the definition of the accessor function. Finally the final
+helper function, init_syscall_list is used to allocate the skiplist of a system call if that system call's list is still NULL. 
+
+Now into the system call definitions. The block system call is defined first. This system call does some error/input checking/validation 
+then moves into adding the passed PID into the proper system calls list. An interesting note, is that if a PID of 0 is passed in then the
+PID of the current process that called that system call is used as the PID to be blocked, otherwise root privilege is required to block
+another process. The unblock system call follows a similar structure besides the interesting note on the block system call. It does some
+error checking returning proper errors, then goes to remove that PID from the specified system call's list if it exist. The count system
+call again follows a similar structure. It does some error checking and if it finds the PID it is looking for, it will return the count,
+which represents the number of times a process tries to call that specific system call while blocked from doing so. Finally, the shutdown
+system call was added for use during testing mostly, but it will empty all list and essentially reset the data structure as if it hasn't
+been used yet. 
+
+The last important files to note are those in proj2/userland. The first few are relatively simple, sbx421_block, sbx421_unblock,
+sbx421_count and sbx421_shutdown are just simple wrapper functions for the system calls that accept the PID and system call number from 
+the command line. They do some error checking on those command line arguments then just simply call the system call with those arguments.
+The last userland program, sbx421_run, is a litte more complex. It takes in a file of system call numbers, blocks itself from calling those
+system calls, changes UID to the user passed in on the command line, then runs the program passed in on the command line.
+
+The other directories contain a roughly coded prototype of the system calls done for user space testing (misc), the testing directory
+contains some test programs used during creation and the design directory includes a rough draft and final draft of a design document 
+for this project. 
