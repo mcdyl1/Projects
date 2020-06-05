@@ -1,0 +1,85 @@
+."SET, DUP, DROP, SWAP" . CR
+15 DUP . SP . CR
+
+17 14 DROP . CR
+
+20 30 SWAP . SP  . CR
+
+1 3 2 ROT . SP . SP . CR
+
+//testing error in SET
+
+."ERROR in SET" . CR
+1 x SET
+2 x SET
+
+//testing error in @ and !
+."ERROR in @ and !" . CR
+Lucky @
+x y !
+
+."COMPARISONS" . CR
+17 13 <  . CR
+17 23 <  . CR
+
+35 31 <= . CR
+31 31 <= . CR
+
+91 19 == . CR
+19 19 == . CR
+
+19 19 != . CR
+91 19 != . CR
+
+37 43 >= . CR
+43 43 >= . CR
+
+61 75 >  . CR
+95 75 >  . CR
+
+."TRUTH TABLES" . CR
+
+12 u SET
+
+."AND" . CR
+u @ 13 >=  u @ 11 <=  AND . CR
+u @ 13 >=  u @ 20 <=  AND . CR
+
+."OR" . CR
+u @ 13 >=  u @ 11 <=  OR . CR
+u @ 13 >=  u @ 20 <=  OR . CR
+
+."NOT" . CR
+u @ 15 >= NOT . CR
+
+7 5 <
+IFTHEN
+  1 1 + 2 ==
+  IFTHEN
+    3 2 % 0 ==
+    IFTHEN
+      ."Math works" . CR
+    ELSE
+      ."Talk like Yoda, we do" . CR
+    ENDIF
+  ELSE
+    ."Huh???" . CR
+  ENDIF
+ELSE
+   1 1 + 2 ==
+   IFTHEN
+      ."Fake News Reported" . CR
+   ELSE
+      ."Caught ya lying" . CR
+   ENDIF
+ENDIF
+
+."DO UNTIL" . CR
+0 j SET
+
+DO
+
+  j @ 2 + j !
+  j @ . CR
+
+j @ 10 >= UNTIL
