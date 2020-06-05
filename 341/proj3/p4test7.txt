@@ -1,0 +1,20 @@
+linux2[106]% g++ p4test7.cpp -o t7.out
+
+linux2[107]% time ./t7.out 15000
+checkMin = 461820641
+checkMed = -1960546811
+checkMax = 408644184
+2.141u 0.007s 0:02.15 99.5%     0+0k 0+0io 0pf+0w
+
+linux2[108]% time ./t7.out 30000
+checkMin = 1192860001
+checkMed = 231626757
+checkMax = -303568720
+4.145u 0.014s 0:04.18 99.2%     0+0k 0+0io 0pf+0w
+
+linux2[109]% time ./t7.out 60000
+checkMin = -1898322335
+checkMed = -2102808571
+checkMax = -1265884832
+7.960u 0.019s 0:08.01 99.5%     0+0k 0+0io 0pf+0w
+

@@ -1,0 +1,108 @@
+
+... MedianHeap::dump() ...
+
+------------Max Heap------------
+size = 13, capacity = 52
+Heap[1] = (88)
+Heap[2] = (86)
+Heap[3] = (87)
+Heap[4] = (85)
+Heap[5] = (83)
+Heap[6] = (78)
+Heap[7] = (81)
+Heap[8] = (79)
+Heap[9] = (84)
+Heap[10] = (82)
+Heap[11] = (80)
+Heap[12] = (77)
+Heap[13] = (76)
+
+------------Min Heap------------
+size = 12, capacity = 52
+Heap[1] = (89)
+Heap[2] = (91)
+Heap[3] = (90)
+Heap[4] = (94)
+Heap[5] = (92)
+Heap[6] = (95)
+Heap[7] = (96)
+Heap[8] = (100)
+Heap[9] = (97)
+Heap[10] = (98)
+Heap[11] = (93)
+Heap[12] = (99)
+--------------------------------
+
+min    = 76
+median = 88
+max    = 100
+
+... MedianHeap::dump() ...
+
+------------Max Heap------------
+size = 25, capacity = 52
+Heap[1] = (76)
+Heap[2] = (20)
+Heap[3] = (24)
+Heap[4] = (13)
+Heap[5] = (19)
+Heap[6] = (23)
+Heap[7] = (4)
+Heap[8] = (8)
+Heap[9] = (12)
+Heap[10] = (15)
+Heap[11] = (18)
+Heap[12] = (22)
+Heap[13] = (16)
+Heap[14] = (1)
+Heap[15] = (3)
+Heap[16] = (5)
+Heap[17] = (7)
+Heap[18] = (9)
+Heap[19] = (11)
+Heap[20] = (10)
+Heap[21] = (14)
+Heap[22] = (2)
+Heap[23] = (17)
+Heap[24] = (6)
+Heap[25] = (21)
+
+------------Min Heap------------
+size = 24, capacity = 52
+Heap[1] = (77)
+Heap[2] = (79)
+Heap[3] = (78)
+Heap[4] = (84)
+Heap[5] = (80)
+Heap[6] = (87)
+Heap[7] = (88)
+Heap[8] = (91)
+Heap[9] = (85)
+Heap[10] = (83)
+Heap[11] = (81)
+Heap[12] = (90)
+Heap[13] = (95)
+Heap[14] = (96)
+Heap[15] = (89)
+Heap[16] = (100)
+Heap[17] = (94)
+Heap[18] = (97)
+Heap[19] = (86)
+Heap[20] = (98)
+Heap[21] = (92)
+Heap[22] = (93)
+Heap[23] = (82)
+Heap[24] = (99)
+--------------------------------
+
+min    = 1
+median = 76
+max    = 100
+=====================================================
+sanityCheck called ...
+max and min heap sizes are consistent MedianHeap::size()
+max and min heap sizes are within 1 of each other
+Sanity Check maxHeap...
+Sanity Check minHeap...
+Passed sanityCheck().
+=====================================================

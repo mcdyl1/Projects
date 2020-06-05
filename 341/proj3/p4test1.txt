@@ -1,0 +1,30 @@
+
+... MedianHeap::dump() ...
+
+------------Max Heap------------
+size = 2, capacity = 8
+Heap[1] = (7)
+Heap[2] = (5)
+
+------------Min Heap------------
+size = 3, capacity = 8
+Heap[1] = (9)
+Heap[2] = (13)
+Heap[3] = (17)
+--------------------------------
+
+min    = 5
+median = 9
+max    = 17
+
+
+Test some edge cases:
+MH2.getMin() = 10
+MH2.getMedian() = 10
+MH2.getMax() = 10
+MH2.getMin() = 10
+MH2.getMedian() = 10
+MH2.getMax() = 20
+MH2.getMin() = 5
+MH2.getMedian() = 10
+MH2.getMax() = 20
