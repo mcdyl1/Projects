@@ -11,7 +11,7 @@ Computer Science Courses Taken:
 - 341: Data Structures (C++)
 - 421: Operating Systems (C)
 - 426: Principles of Computer Security
-- 441: Design and Analysis of Algorithms
+- 441: Design and Analysis of Algorithms (Python)
 - 447: Software Engineering (Python)
 - 471: Intro to Artificial Intelligence
 - 481: Computer Networks
