@@ -1,0 +1,167 @@
+Aegis Dragon,fire,5,9
+Aeon Wyvern,water,4,7
+Albino Dragon,ice,5,10
+Almerald Dragon,wind,5,10
+Anagallis Dragon,wind,4,7
+Antarean Dragon,acid,4,8
+Aria Dragon,water,3,6
+Arsani Dragon,fire,1,1
+Astrapi Xenowyrm,wind,1,1
+Azure Glacewing Dragon,wind,3,5
+Baikala Dragon,fire,4,8
+Balloon Dragon,water,4,8
+Bauta Dragon,acid,4,8
+Black Dragon,acid,5,10
+Black Tea Dragon,ice,5,10
+Blacktip Dragon,water,5,10
+Bleeding Moon Dragon,fire,5,10
+Blue-Banded Dragon,ice,1,1
+Bolt Dragon,acid,3,5
+Bright Pink Dragon,water,5,10
+Bright-Breasted Wyvern,fire,1,1
+Brimstone Dragon,ice,3,6
+Brute Dragon,acid,3,6
+Caligene Dragon,fire,3,6
+Candelabra Dragon,wind,2,3
+Canopy Dragon,wind,5,9
+Carina Dragon,ice,4,8
+Carmine Wyvern,acid,5,10
+Cassare Dragon,fire,1,2
+Cavern Lurker Dragon,acid,4,7
+Celestial Dragon,wind,4,7
+Cheese Dragon,water,1,1
+Chrono Xenowyrm,fire,4,8
+Common Pygmy,wind,3,5
+Copper Dragon,fire,2,4
+Dark Green Dragon,fire,1,2
+Dark Lumina Dragon,ice,1,2
+Dark Myst Pygmy,fire,4,8
+Day Glory Drake,wind,1,1
+Daydream Dragon,acid,1,2
+Deep Sea Dragon,ice,4,8
+Desipis Dragon,acid,3,5
+Diamondwing Dragon,fire,3,5
+Dorsal Dragon,acid,3,5
+Duotone Dragon,water,4,7
+Dusk Pygmy,acid,4,7
+Electric Dragon,acid,5,10
+Ember Dragon,fire,3,5
+Falconiform Wyvern,ice,1,1
+Fell Dragon,ice,5,10
+Fever Wyvern,wind,2,4
+Fire Gem Dragon,fire,1,1
+Flamingo Wyvern,water,1,1
+Frilled Dragon,fire,3,5
+Frostbite Dragon,ice,4,7
+Gaia Xenowyrm,acid,5,9
+Garland Dragon,ice,2,4
+Gemshard Dragon,wind,4,7
+Geode Dragon,fire,1,1
+Gilded Bloodscale Dragon,acid,3,6
+Glaucus Drake,fire,5,9
+Glitch Dragon,ice,3,6
+Gold Dragon,fire,5,10
+Golden Wyvern,acid,2,4
+Grave Dragon,ice,4,8
+Greater Spotted Drake,wind,2,3
+Green Dragon,acid,4,8
+Guardian Dragon,fire,3,5
+Harvest Dragon,acid,2,3
+Heartseeker Dragon,acid,1,2
+Heartstealing Dragon,wind,3,5
+Hellfire Wyvern,fire,5,9
+Hellhorse Dragon,wind,4,7
+Holly Dragon,water,2,3
+Honey Drake,fire,5,10
+Hooktalon Dragon,acid,1,1
+Horse Dragon,ice,5,9
+Howler Drake,wind,2,3
+Ice Dragon,ice,2,4
+Khusa Dragon,acid,3,6
+Kingcrowne Dragon,ice,3,5
+Kyanite Pygmy,fire,2,4
+Lumina Dragon,ice,4,7
+Mageia Xenowyrm,acid,4,7
+Magelight Pygmy Wyvern,wind,3,5
+Magi Dragon,wind,3,6
+Magma Dragon,wind,1,2
+Mint Dragon,acid,5,9
+Misfit Pygmy,ice,3,5
+Mistletoe Dragon,fire,2,4
+Monarch Dragon,ice,2,4
+Moonstone Dragon,ice,3,6
+Mutamore Dragon,wind,1,2
+Nebula Dragon,water,1,2
+Neglected Dragon,ice,5,10
+Neotropical Dragon,acid,2,3
+Nexus Dragon,water,3,6
+Nhiostrife Wyvern,acid,3,6
+Night Glory Drake,wind,2,3
+Nilia Pygmy,ice,5,9
+Nocturne Dragon,ice,3,6
+Olive Dragon,wind,3,6
+Paper Dragon,wind,4,7
+Pillow Dragon,water,5,10
+Pink Dragon,ice,4,7
+Plated Colossus Dragon,fire,4,7
+Pumpkin Dragon,acid,1,2
+Purple Dragon,acid,1,1
+Pyralspite Dragon,wind,2,3
+Pyro Xenowyrm,wind,1,1
+Radiant Angel Dragon,ice,3,5
+Red Dragon,fire,5,9
+Red-finned Tidal Dragon,fire,1,2
+Ridgewing Dragon,wind,3,5
+Risensong Dragon,wind,4,7
+Rosebud Dragon,wind,5,10
+Royal Blue Dragon,acid,4,7
+Royal Crimson Dragon,ice,4,7
+Sapphire Dragon,fire,1,1
+Scimitar-wing Wyvern,acid,2,3
+Script Dragon,water,3,5
+Seasonal Dragon,ice,3,5
+Seawyrm Pygmy,fire,3,6
+Seragamma Wyvern,fire,2,3
+Setsong Dragon,wind,5,10
+Shallow Water Dragon,acid,4,8
+Shimmer-scale Dragon,ice,3,5
+Silver Dragon,wind,5,9
+Sinii Krai Dragon,fire,4,8
+Sinomorph Dragon,acid,3,6
+Skywing Dragon,acid,2,3
+Snow Dragon,ice,1,1
+Solstice Dragon,ice,2,3
+Soulpeace Dragon,fire,3,6
+Soulstone Dragon,fire,5,10
+Speckle-Throated Dragon,water,5,9
+Spinel Wyvern,water,4,8
+Spirit Ward Dragon,fire,2,3
+Spitfire Dragon,fire,1,1
+Split Dragon,water,4,7
+Stone Dragon,ice,4,8
+Storm Dragon,fire,1,1
+Storm-Rider Dragon,wind,1,2
+Striped Dragon,wind,5,9
+Striped River Dragon,wind,2,4
+Sunrise Dragon,fire,1,1
+Sunset Dragon,ice,4,7
+Sunstone Dragon,fire,5,10
+Swallowtail Dragon,acid,4,7
+Tarantula Hawk Drake,acid,1,2
+Terrae Dragon,water,5,9
+Tetra Dragon,acid,1,2
+Thalassa Xenowyrm,water,5,9
+Thunder Dragon,wind,4,8
+Tinsel Dragon,ice,5,9
+Tri-Horn Wyvern,fire,3,6
+Tsunami Wyvern,water,3,6
+Turpentine Dragon,water,2,4
+Ultraviolet Dragon,wind,2,4
+Undead Dragon,ice,2,3
+Undine Dragon,wind,3,5
+Valentine Dragon,wind,5,10
+Vampire Dragon,ice,3,6
+Water Dragon,water,5,10
+Water Walker Dragon,water,3,5
+Waterhorse Dragon,water,4,7
+Whiptail Dragon,wind,4,8
