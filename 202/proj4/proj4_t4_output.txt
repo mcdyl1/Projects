@@ -1,0 +1,1428 @@
+./proj4 proj4_t4.txt
+Loading file: proj4_t4.txt
+
+SUCCESS
+
+Filling carriers....
+
+**************************
+UPS Truck Contents: 
+---------------------
+LETTER
+To: Lisandra Briggs
+From: Ralph Weber
+Size: 52.48 square inches
+---------------------
+---------------------
+LETTER
+To: Merritt Lindsey
+From: Ciara Grant
+Size: 86.85 square inches
+---------------------
+---------------------
+PACKAGE
+To: Mara Dotson
+From: Frances Cross
+Weight: 3.45 lbs
+---------------------
+---------------------
+LETTER
+To: Nevada Odom
+From: Naomi Collier
+Size: 61.31 square inches
+---------------------
+---------------------
+PACKAGE
+To: Renee Marquez
+From: Zeph Wiggins
+Weight: 95.39 lbs
+---------------------
+---------------------
+LETTER
+To: Jeanette Skinner
+From: Jesse Trevino
+Size: 81.74 square inches
+---------------------
+---------------------
+LETTER
+To: Josiah Maldonado
+From: Mira Fry
+Size: 77.28 square inches
+---------------------
+---------------------
+LETTER
+To: Taylor Castillo
+From: Larissa Delaney
+Size: 82.91 square inches
+---------------------
+---------------------
+PACKAGE
+To: Alfonso Whitfield
+From: Ray Morin
+Weight: 55.49 lbs
+---------------------
+---------------------
+PACKAGE
+To: Matthew Sampson
+From: Sarah Jensen
+Weight: 95.53 lbs
+---------------------
+---------------------
+PACKAGE
+To: Marah Battle
+From: Wyoming Justice
+Weight: 42.51 lbs
+---------------------
+---------------------
+LETTER
+To: Moana Mullen
+From: Maile Ford
+Size: 73.59 square inches
+---------------------
+---------------------
+LETTER
+To: Amanda Nixon
+From: Mira Briggs
+Size: 30.74 square inches
+---------------------
+---------------------
+LETTER
+To: Wilma Mcclain
+From: Blair Wilkinson
+Size: 66.77 square inches
+---------------------
+---------------------
+LETTER
+To: Tiger Walls
+From: Marvin Mccullough
+Size: 7.6 square inches
+---------------------
+---------------------
+LETTER
+To: Cameron Cash
+From: Suki Guthrie
+Size: 72.29 square inches
+---------------------
+---------------------
+LETTER
+To: Shelley Ware
+From: Violet Whitney
+Size: 16.61 square inches
+---------------------
+---------------------
+PACKAGE
+To: Jakeem Colon
+From: Freya Gray
+Weight: 55.65 lbs
+---------------------
+---------------------
+PACKAGE
+To: Kelly Bailey
+From: Thor Lowe
+Weight: 56.84 lbs
+---------------------
+---------------------
+LETTER
+To: Cassady Chase
+From: Vance Nichols
+Size: 38.47 square inches
+---------------------
+---------------------
+PACKAGE
+To: Mercedes Alexander
+From: Emily Spears
+Weight: 28.75 lbs
+---------------------
+---------------------
+LETTER
+To: Alan Shepherd
+From: Melvin Faulkner
+Size: 16.79 square inches
+---------------------
+---------------------
+PACKAGE
+To: Kyra Hampton
+From: Buckminster Potter
+Weight: 22.97 lbs
+---------------------
+---------------------
+PACKAGE
+To: Quentin Underwood
+From: Victor Foley
+Weight: 94.31 lbs
+---------------------
+---------------------
+PACKAGE
+To: Micah Mueller
+From: Brielle Wells
+Weight: 2.17 lbs
+---------------------
+---------------------
+PACKAGE
+To: Xerxes Ingram
+From: Petra Wynn
+Weight: 10.3 lbs
+---------------------
+---------------------
+PACKAGE
+To: Athena Hardin
+From: Stuart Pugh
+Weight: 12.85 lbs
+---------------------
+---------------------
+LETTER
+To: Oren Richard
+From: Scarlett Gonzalez
+Size: 49.96 square inches
+---------------------
+---------------------
+LETTER
+To: Hyacinth Herrera
+From: Noelani Steele
+Size: 21.02 square inches
+---------------------
+---------------------
+PACKAGE
+To: Maxine Rosario
+From: Kieran Kramer
+Weight: 43.45 lbs
+---------------------
+---------------------
+PACKAGE
+To: Matthew Whitley
+From: Francesca Hammond
+Weight: 35.09 lbs
+---------------------
+---------------------
+PACKAGE
+To: Hayley Holder
+From: Erica Lewis
+Weight: 35.73 lbs
+---------------------
+---------------------
+PACKAGE
+To: Whitney Solis
+From: Portia Foreman
+Weight: 75.13 lbs
+---------------------
+---------------------
+PACKAGE
+To: Asher Mendoza
+From: Kamal Yates
+Weight: 62.19 lbs
+---------------------
+---------------------
+LETTER
+To: Gretchen Holder
+From: Odysseus Welch
+Size: 32.63 square inches
+---------------------
+---------------------
+PACKAGE
+To: Idona Medina
+From: Linda Blake
+Weight: 88.73 lbs
+---------------------
+---------------------
+PACKAGE
+To: Kyla Hines
+From: Ronan Ramos
+Weight: 95.06 lbs
+---------------------
+---------------------
+LETTER
+To: Desiree Bowman
+From: Moana Cochran
+Size: 21.3 square inches
+---------------------
+---------------------
+PACKAGE
+To: Ferdinand Fernandez
+From: Jolie Vega
+Weight: 43.89 lbs
+---------------------
+---------------------
+PACKAGE
+To: Xerxes Hall
+From: Jolene Le
+Weight: 7.39 lbs
+---------------------
+---------------------
+PACKAGE
+To: Melissa Dorsey
+From: Erica Mann
+Weight: 83.74 lbs
+---------------------
+---------------------
+LETTER
+To: Allistair Mcintosh
+From: Ira Kline
+Size: 22.67 square inches
+---------------------
+---------------------
+PACKAGE
+To: Wendy Leblanc
+From: Grant Russo
+Weight: 8.79 lbs
+---------------------
+---------------------
+LETTER
+To: Gray Bryan
+From: Hanae Alvarado
+Size: 53.95 square inches
+---------------------
+---------------------
+PACKAGE
+To: Silas Lane
+From: Alana English
+Weight: 2.07 lbs
+---------------------
+---------------------
+LETTER
+To: Dahlia Meyer
+From: Calvin Jarvis
+Size: 21.93 square inches
+---------------------
+---------------------
+PACKAGE
+To: Wyoming Harper
+From: Gay Sampson
+Weight: 13.47 lbs
+---------------------
+---------------------
+PACKAGE
+To: Amaya Berry
+From: Fleur Cummings
+Weight: 23.51 lbs
+---------------------
+---------------------
+PACKAGE
+To: Elizabeth Levine
+From: Claire Bridges
+Weight: 53.5 lbs
+---------------------
+---------------------
+LETTER
+To: Jonas Sawyer
+From: Noble Dickerson
+Size: 67.35 square inches
+---------------------
+---------------------
+LETTER
+To: Ignacia Carver
+From: Keegan Moss
+Size: 61.11 square inches
+---------------------
+---------------------
+LETTER
+To: Amery Jefferson
+From: Iliana Bryant
+Size: 34.27 square inches
+---------------------
+**************************
+
+**************************
+FedEx Truck Contents: 
+---------------------
+PACKAGE
+To: Julian Hoover
+From: Isaac Adams
+Weight: 26.05 lbs
+---------------------
+---------------------
+LETTER
+To: Jerome Hensley
+From: Hilary Abbott
+Size: 77.13 square inches
+---------------------
+---------------------
+PACKAGE
+To: Geoffrey Atkins
+From: Clarke Lowe
+Weight: 10.57 lbs
+---------------------
+---------------------
+LETTER
+To: Zachary Wilcox
+From: Erasmus Harvey
+Size: 8.52 square inches
+---------------------
+---------------------
+PACKAGE
+To: Holly Park
+From: Lee Little
+Weight: 79.95 lbs
+---------------------
+---------------------
+PACKAGE
+To: Tanya Shepard
+From: Eaton Houston
+Weight: 34.16 lbs
+---------------------
+---------------------
+LETTER
+To: Sawyer Foster
+From: Nathaniel Aguilar
+Size: 61.38 square inches
+---------------------
+---------------------
+LETTER
+To: Kylan Leach
+From: Tatiana Holden
+Size: 81.72 square inches
+---------------------
+---------------------
+LETTER
+To: Elliott Stokes
+From: Peter Weaver
+Size: 57.68 square inches
+---------------------
+---------------------
+LETTER
+To: Madeson Schultz
+From: Ramona Hunter
+Size: 79.41 square inches
+---------------------
+---------------------
+LETTER
+To: Sylvester Acevedo
+From: Karyn Buchanan
+Size: 92.31 square inches
+---------------------
+---------------------
+PACKAGE
+To: Logan Petty
+From: Quinn Dorsey
+Weight: 33.1 lbs
+---------------------
+---------------------
+PACKAGE
+To: Alexa Hall
+From: Garrison Delgado
+Weight: 96.97 lbs
+---------------------
+---------------------
+LETTER
+To: Vielka Kaufman
+From: Audrey Francis
+Size: 50.3 square inches
+---------------------
+---------------------
+PACKAGE
+To: Skyler Middleton
+From: Minerva Orr
+Weight: 79.98 lbs
+---------------------
+---------------------
+PACKAGE
+To: Carissa Beach
+From: Moses Humphrey
+Weight: 52.6 lbs
+---------------------
+---------------------
+PACKAGE
+To: Colby Owen
+From: Amanda Walker
+Weight: 68.35 lbs
+---------------------
+---------------------
+PACKAGE
+To: Gage Gallagher
+From: Kelly Townsend
+Weight: 87.92 lbs
+---------------------
+---------------------
+LETTER
+To: Anne Coffey
+From: McKenzie Bernard
+Size: 38.06 square inches
+---------------------
+---------------------
+PACKAGE
+To: Louis Stephenson
+From: Ian Macdonald
+Weight: 31.94 lbs
+---------------------
+---------------------
+PACKAGE
+To: Allegra Kramer
+From: Rose Molina
+Weight: 73.87 lbs
+---------------------
+---------------------
+PACKAGE
+To: Aurelia Hartman
+From: Tana Hays
+Weight: 8.67 lbs
+---------------------
+---------------------
+LETTER
+To: Reagan Atkinson
+From: Deacon Vazquez
+Size: 63.06 square inches
+---------------------
+---------------------
+PACKAGE
+To: Simon Dillard
+From: Stone Kaufman
+Weight: 82.63 lbs
+---------------------
+---------------------
+PACKAGE
+To: Drew Gates
+From: Louis Pitts
+Weight: 35.29 lbs
+---------------------
+---------------------
+LETTER
+To: Sonia Henry
+From: Jolie Mcbride
+Size: 66.71 square inches
+---------------------
+---------------------
+LETTER
+To: Marshall Beard
+From: Charles Norton
+Size: 60.52 square inches
+---------------------
+---------------------
+LETTER
+To: Christopher Horne
+From: Giacomo Mann
+Size: 67.51 square inches
+---------------------
+---------------------
+LETTER
+To: Rina Fuller
+From: Craig Olson
+Size: 72.83 square inches
+---------------------
+---------------------
+PACKAGE
+To: Hedda Haney
+From: Tanek Curry
+Weight: 9.22 lbs
+---------------------
+---------------------
+LETTER
+To: Aurora Pickett
+From: Amir Garner
+Size: 21.46 square inches
+---------------------
+---------------------
+LETTER
+To: Kibo Roberson
+From: Myra Rivera
+Size: 45.91 square inches
+---------------------
+---------------------
+PACKAGE
+To: Oscar Robles
+From: Quinn Walsh
+Weight: 8.17 lbs
+---------------------
+---------------------
+LETTER
+To: Timon Combs
+From: Jeremy Murphy
+Size: 96.52 square inches
+---------------------
+---------------------
+PACKAGE
+To: Kato Hensley
+From: Keegan Gardner
+Weight: 83.71 lbs
+---------------------
+---------------------
+LETTER
+To: Octavia Hartman
+From: Rafael Nash
+Size: 32.25 square inches
+---------------------
+---------------------
+LETTER
+To: Sylvester Norris
+From: Gisela Ferguson
+Size: 53.32 square inches
+---------------------
+---------------------
+PACKAGE
+To: Keegan Mcneil
+From: Nolan Mcintyre
+Weight: 40.96 lbs
+---------------------
+---------------------
+LETTER
+To: Penelope Cameron
+From: Harper Osborne
+Size: 41.58 square inches
+---------------------
+---------------------
+LETTER
+To: Ashely Morales
+From: McKenzie Calhoun
+Size: 63.73 square inches
+---------------------
+---------------------
+LETTER
+To: Jenette Duran
+From: Amity Robertson
+Size: 100.75 square inches
+---------------------
+---------------------
+LETTER
+To: Virginia Young
+From: Michael Daugherty
+Size: 27.58 square inches
+---------------------
+---------------------
+PACKAGE
+To: Melvin Larson
+From: Kiayada Crane
+Weight: 80.95 lbs
+---------------------
+---------------------
+PACKAGE
+To: Gretchen Calhoun
+From: Christopher Bender
+Weight: 85.73 lbs
+---------------------
+---------------------
+PACKAGE
+To: Wesley Mathews
+From: Kelsey Schultz
+Weight: 100.66 lbs
+---------------------
+---------------------
+PACKAGE
+To: Sasha Buck
+From: Lani Harmon
+Weight: 22.89 lbs
+---------------------
+---------------------
+PACKAGE
+To: Audra Rodgers
+From: Sybil Hancock
+Weight: 48.79 lbs
+---------------------
+---------------------
+PACKAGE
+To: Justin Hall
+From: Rebecca Jefferson
+Weight: 15.69 lbs
+---------------------
+**************************
+
+SUCCESS
+
+Delivering....
+
+Delivered: 
+---------------------
+LETTER
+To: Amery Jefferson
+From: Iliana Bryant
+Size: 34.27 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Ignacia Carver
+From: Keegan Moss
+Size: 61.11 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Jonas Sawyer
+From: Noble Dickerson
+Size: 67.35 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Elizabeth Levine
+From: Claire Bridges
+Weight: 53.5 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Amaya Berry
+From: Fleur Cummings
+Weight: 23.51 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Wyoming Harper
+From: Gay Sampson
+Weight: 13.47 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Dahlia Meyer
+From: Calvin Jarvis
+Size: 21.93 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Silas Lane
+From: Alana English
+Weight: 2.07 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Gray Bryan
+From: Hanae Alvarado
+Size: 53.95 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Wendy Leblanc
+From: Grant Russo
+Weight: 8.79 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Allistair Mcintosh
+From: Ira Kline
+Size: 22.67 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Melissa Dorsey
+From: Erica Mann
+Weight: 83.74 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Xerxes Hall
+From: Jolene Le
+Weight: 7.39 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Ferdinand Fernandez
+From: Jolie Vega
+Weight: 43.89 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Desiree Bowman
+From: Moana Cochran
+Size: 21.3 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Kyla Hines
+From: Ronan Ramos
+Weight: 95.06 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Idona Medina
+From: Linda Blake
+Weight: 88.73 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Gretchen Holder
+From: Odysseus Welch
+Size: 32.63 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Asher Mendoza
+From: Kamal Yates
+Weight: 62.19 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Whitney Solis
+From: Portia Foreman
+Weight: 75.13 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Hayley Holder
+From: Erica Lewis
+Weight: 35.73 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Matthew Whitley
+From: Francesca Hammond
+Weight: 35.09 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Maxine Rosario
+From: Kieran Kramer
+Weight: 43.45 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Hyacinth Herrera
+From: Noelani Steele
+Size: 21.02 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Oren Richard
+From: Scarlett Gonzalez
+Size: 49.96 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Athena Hardin
+From: Stuart Pugh
+Weight: 12.85 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Xerxes Ingram
+From: Petra Wynn
+Weight: 10.3 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Micah Mueller
+From: Brielle Wells
+Weight: 2.17 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Quentin Underwood
+From: Victor Foley
+Weight: 94.31 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Kyra Hampton
+From: Buckminster Potter
+Weight: 22.97 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Alan Shepherd
+From: Melvin Faulkner
+Size: 16.79 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Mercedes Alexander
+From: Emily Spears
+Weight: 28.75 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Cassady Chase
+From: Vance Nichols
+Size: 38.47 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Kelly Bailey
+From: Thor Lowe
+Weight: 56.84 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Jakeem Colon
+From: Freya Gray
+Weight: 55.65 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Shelley Ware
+From: Violet Whitney
+Size: 16.61 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Cameron Cash
+From: Suki Guthrie
+Size: 72.29 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Tiger Walls
+From: Marvin Mccullough
+Size: 7.6 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Wilma Mcclain
+From: Blair Wilkinson
+Size: 66.77 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Amanda Nixon
+From: Mira Briggs
+Size: 30.74 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Moana Mullen
+From: Maile Ford
+Size: 73.59 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Marah Battle
+From: Wyoming Justice
+Weight: 42.51 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Matthew Sampson
+From: Sarah Jensen
+Weight: 95.53 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Alfonso Whitfield
+From: Ray Morin
+Weight: 55.49 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Taylor Castillo
+From: Larissa Delaney
+Size: 82.91 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Josiah Maldonado
+From: Mira Fry
+Size: 77.28 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Jeanette Skinner
+From: Jesse Trevino
+Size: 81.74 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Renee Marquez
+From: Zeph Wiggins
+Weight: 95.39 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Nevada Odom
+From: Naomi Collier
+Size: 61.31 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Mara Dotson
+From: Frances Cross
+Weight: 3.45 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Merritt Lindsey
+From: Ciara Grant
+Size: 86.85 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Lisandra Briggs
+From: Ralph Weber
+Size: 52.48 square inches
+---------------------
+
+Deliveries completed. UPS total earned: $633.50
+
+Delivered: 
+---------------------
+PACKAGE
+To: Justin Hall
+From: Rebecca Jefferson
+Weight: 15.69 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Audra Rodgers
+From: Sybil Hancock
+Weight: 48.79 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Sasha Buck
+From: Lani Harmon
+Weight: 22.89 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Wesley Mathews
+From: Kelsey Schultz
+Weight: 100.66 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Gretchen Calhoun
+From: Christopher Bender
+Weight: 85.73 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Melvin Larson
+From: Kiayada Crane
+Weight: 80.95 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Virginia Young
+From: Michael Daugherty
+Size: 27.58 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Jenette Duran
+From: Amity Robertson
+Size: 100.75 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Ashely Morales
+From: McKenzie Calhoun
+Size: 63.73 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Penelope Cameron
+From: Harper Osborne
+Size: 41.58 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Keegan Mcneil
+From: Nolan Mcintyre
+Weight: 40.96 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Sylvester Norris
+From: Gisela Ferguson
+Size: 53.32 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Octavia Hartman
+From: Rafael Nash
+Size: 32.25 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Kato Hensley
+From: Keegan Gardner
+Weight: 83.71 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Timon Combs
+From: Jeremy Murphy
+Size: 96.52 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Oscar Robles
+From: Quinn Walsh
+Weight: 8.17 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Kibo Roberson
+From: Myra Rivera
+Size: 45.91 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Aurora Pickett
+From: Amir Garner
+Size: 21.46 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Hedda Haney
+From: Tanek Curry
+Weight: 9.22 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Rina Fuller
+From: Craig Olson
+Size: 72.83 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Christopher Horne
+From: Giacomo Mann
+Size: 67.51 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Marshall Beard
+From: Charles Norton
+Size: 60.52 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Sonia Henry
+From: Jolie Mcbride
+Size: 66.71 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Drew Gates
+From: Louis Pitts
+Weight: 35.29 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Simon Dillard
+From: Stone Kaufman
+Weight: 82.63 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Reagan Atkinson
+From: Deacon Vazquez
+Size: 63.06 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Aurelia Hartman
+From: Tana Hays
+Weight: 8.67 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Allegra Kramer
+From: Rose Molina
+Weight: 73.87 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Louis Stephenson
+From: Ian Macdonald
+Weight: 31.94 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Anne Coffey
+From: McKenzie Bernard
+Size: 38.06 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Gage Gallagher
+From: Kelly Townsend
+Weight: 87.92 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Colby Owen
+From: Amanda Walker
+Weight: 68.35 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Carissa Beach
+From: Moses Humphrey
+Weight: 52.6 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Skyler Middleton
+From: Minerva Orr
+Weight: 79.98 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Vielka Kaufman
+From: Audrey Francis
+Size: 50.3 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Alexa Hall
+From: Garrison Delgado
+Weight: 96.97 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Logan Petty
+From: Quinn Dorsey
+Weight: 33.1 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Sylvester Acevedo
+From: Karyn Buchanan
+Size: 92.31 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Madeson Schultz
+From: Ramona Hunter
+Size: 79.41 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Elliott Stokes
+From: Peter Weaver
+Size: 57.68 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Kylan Leach
+From: Tatiana Holden
+Size: 81.72 square inches
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Sawyer Foster
+From: Nathaniel Aguilar
+Size: 61.38 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Tanya Shepard
+From: Eaton Houston
+Weight: 34.16 lbs
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Holly Park
+From: Lee Little
+Weight: 79.95 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Zachary Wilcox
+From: Erasmus Harvey
+Size: 8.52 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Geoffrey Atkins
+From: Clarke Lowe
+Weight: 10.57 lbs
+---------------------
+
+Delivered: 
+---------------------
+LETTER
+To: Jerome Hensley
+From: Hilary Abbott
+Size: 77.13 square inches
+---------------------
+
+Delivered: 
+---------------------
+PACKAGE
+To: Julian Hoover
+From: Isaac Adams
+Weight: 26.05 lbs
+---------------------
+
+Deliveries completed. Fedex total earned: $463.80
+
+SUCCESS
+
+Cleaning up the carriers.....
+
+Simulation success. Have a nice day!

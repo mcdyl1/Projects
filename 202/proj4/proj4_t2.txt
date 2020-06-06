@@ -1,0 +1,4 @@
+2 2 .1 .1 .05 .1
+1,1,Sam I Am,Cat in the Hat,9.25
+1,1,Mario,Luigi,14.4
+1,1,Elvis,Johnny Cash,22.4

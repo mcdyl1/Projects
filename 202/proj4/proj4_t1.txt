@@ -1,0 +1,10 @@
+10 10 .5 .6 .05 .5
+0,0,UMBC Admission,Joe Student,16.1
+1,1,Amazon Warehouse,Jane Doe,5
+1,1,Jimmy Smith,Johnny Walker,12
+0,1,Romeo Montigue,Juliet Capulat,.2
+0,0,Ice Tea,Ice Cube,10.2
+0,1,Jim Bob,Joe Bob,.3
+1,0,Caesar's Palace,Chris Moneymaker,12.3
+1,1,Snoop Dog,Snoop Momma,4.2
+1,0,Harvard Admission,Elias Backwoods,16.4
