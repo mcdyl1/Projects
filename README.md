@@ -13,6 +13,6 @@ Computer Science Courses Taken:
 - 426: Principles of Computer Security
 - 441: Design and Analysis of Algorithms (Python)
 - 447: Software Engineering (Python)
-- 471: Intro to Artificial Intelligence
+- 471: Intro to Artificial Intelligence (Python)
 - 481: Computer Networks
 - 491: Data Science
