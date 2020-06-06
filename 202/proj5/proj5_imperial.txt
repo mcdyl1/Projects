@@ -1,0 +1,102 @@
+A-9 Vigilance Interceptor,Assault,67,27
+Acclamator-class Assault Ship Mark I,AsXSXsault,41,35
+Acclamator-class Assault Ship Mark II,Assault,59,30
+Action VI Transport,Transport,38,63
+Aggressor-class Destroyer,Assault,46,38
+Allegiance-class Star Destroyer,Assault,44,26
+Alpha-class Xg-1 Star Wing,Assault,61,37
+ARC-170 Aggressive ReConnaisance Starfighter,Assault,46,31
+Arc-class Assault Ship,Assault,66,21
+Assassin-class Corvette,Assault,52,35
+Assertor-class Super Star Destroyer,Assault,62,28
+Bayonet-class Light Cruiser,Assault,55,20
+Bellator-class Super Star Destroyer,Assault,55,37
+Carrack-class Cruiser,Assault,66,27
+Corona-class Frigate,Assault,60,32
+CR90 Corvette,Assault,48,24
+Crusader-class Corvette,Assault,43,38
+Curich-class Shuttle,Shuttle,29,90
+Decimation-class Super Star Destroyer,Assault,45,21
+DP20 Frigate,Assault,49,36
+Dreadnaught-class Heavy Cruiser,Assault,55,20
+EF76 Nebulon-B Escort Frigate,Assault,66,32
+Escort Carrier,Shuttle,26,100
+Eta-2 Actis-class Light Interceptor,Assault,69,27
+Executor-class Super Star Destroyer,Assault,53,33
+Gamma-class Assault Shuttle,Shuttle,31,91
+Gamma-class ATR-6 Assault Transport,Transport,49,69
+GAT-12 Skipray Blastboat,Assault,56,25
+Gladiator-class Star Destroyer,Assault,58,36
+Golan I Space Defense SpaceGun,Assault,44,37
+Golan II Space Defense SpaceGun,Assault,69,38
+Golan III Space Defense NovaGun,Assault,50,30
+Guardian-class Light Cruiser,Assault,53,32
+Huntress-class Pursuit Vessel,Assault,55,20
+I-7 Howlrunner,Assault,55,31
+Immobilizer 418 Interdictor Cruiser,Shuttle,39,83
+Imperial Customs Frigate,Transport,41,66
+Imperial Research Ship,Shuttle,21,93
+Imperial-class Star Destroyer Mark I,Assault,58,24
+Imperial-class Star Destroyer Mark II,Assault,64,26
+Imperial-class Star Destroyer Mark III,Assault,61,25
+Imperial-class Star Destroyer Mark IV,Assault,41,24
+Infinity-class Super Star Destroyer,Assault,60,32
+Interdictor-class Star Destroyer,Assault,62,39
+IPV-1 System Patrol Craft,Transport,48,80
+IR-3F Patrol Ship,Transport,45,77
+Kappa-class Shuttle,Shuttle,30,97
+Kiltirin-class Dungeon Ship,Shuttle,23,86
+Lambda-class T-4a Shuttle,Shuttle,31,92
+Lancer-class Frigate,Shuttle,31,82
+Law-class Light Patrol Craft,Shuttle,26,95
+Lianna-class Corvette Mark I,Transport,43,72
+Lictor-class Dungeon Ship,Transport,40,62
+Mandator III-class Star Destroyer,Assault,47,31
+Marauder-class Corvette,Assault,62,22
+Modular Taskforce Cruiser,Assault,45,26
+Munifex-class Light Cruiser,Assault,42,21
+Nebulon-B2 Frigate,Assault,42,32
+Nemesis-class Super Star Destroyer,Assault,58,24
+Neutron Star-class Bulk Cruiser,Assault,46,25
+Praetor-class Battlecruiser Mark II,Assault,59,24
+Preybird-class Starfighter,Assault,48,25
+Procursator-class Star Destroyer,Assault,60,39
+Rendili StarDrive Light Corvette,Assault,43,34
+Scimitar Assault Bomber,Assault,60,32
+Secutor-class Star Destroyer,Assault,43,34
+Sentinel-class Landing Craft,Assault,49,34
+Spiral-class Assault Ship,Assault,44,39
+Star Galleon-class Frigate,Assault,62,36
+Strike-class Medium Cruiser,Assault,40,22
+Tartan-class Patrol Cruiser,Assault,62,22
+Tector-class Star Destroyer,Assault,49,40
+TIE Advanced x1,Assault,59,34
+TIE Aggressor,Assault,54,39
+TIE Avenger,Assault,68,40
+TIE Bomber,Assault,55,28
+TIE Defender,Assault,47,39
+TIE Droid,Shuttle,23,93
+TIE Fire Control,Transport,34,63
+TIE Ground Targeting,Shuttle,38,83
+TIE Hunter,Assault,46,40
+TIE Interceptor,Assault,63,39
+TIE Line Fighter,Assault,54,25
+TIE Oppressor,Assault,44,20
+TIE Raptor,Assault,46,34
+TIE Reconnaissance,Shuttle,39,95
+TIE Scout,Shuttle,30,95
+TIE Shuttle,Shuttle,35,95
+TIE Vanguard,Shuttle,23,81
+Toscan 8-Q Fighter,Assault,66,33
+V-38 Sentinel,Transport,41,79
+Venator-class Star Destroyer Mark I,Assault,58,37
+Venator-class Star Destroyer Mark II,Assault,67,24
+Victory-class Frigate Mark II,Assault,50,22
+Victory-class Star Destroyer Mark I,Assault,42,35
+Victory-class Star Destroyer Mark II,Assault,52,30
+Vigil-class Corvette,Assault,45,21
+Vindicator-class Heavy Cruiser,Assault,70,24
+VT-49 Decimator,Assault,48,22
+Warlock-class Star Destroyer Mark II,Assault,46,22
+X7 Factory,Transport,47,77
+ZD-9300 Corellian-class Star Destroyer,Assault,62,22

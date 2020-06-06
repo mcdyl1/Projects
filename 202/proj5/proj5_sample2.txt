@@ -1,0 +1,72 @@
+./proj5 proj5_imperial.txt proj5_rebel.txt
+Welcome to Star Wars
+Ships loaded
+How many ships would you like on a team? 10
+The battle begins...
+The Imperial Kiltirin-class Dungeon Ship attacks the Rebel GR-75 Combat Retrofit
+The Rebel GR-75 Combat Retrofit was destroyed.
+The Imperial Kiltirin-class Dungeon Ship attacks the Rebel MC80 star cruiser
+The Rebel MC80 star cruiser was damaged.
+The Rebel MC80 star cruiser attacks the Imperial Kiltirin-class Dungeon Ship
+The Imperial Kiltirin-class Dungeon Ship was damaged.
+The Imperial Kiltirin-class Dungeon Ship attacks the Rebel MC80 star cruiser
+The Rebel MC80 star cruiser was destroyed.
+The Rebel Consular-class cruiser attacks the Imperial Kiltirin-class Dungeon Ship
+The Imperial Kiltirin-class Dungeon Ship was destroyed.
+The Imperial Lambda-class T-4a Shuttle attacks the Rebel Consular-class cruiser
+The Rebel Consular-class cruiser was destroyed.
+The Imperial Lambda-class T-4a Shuttle attacks the Rebel Kleeque-class transport
+The Rebel Kleeque-class transport was damaged.
+The Rebel Kleeque-class transport attacks the Imperial Lambda-class T-4a Shuttle
+The Imperial Lambda-class T-4a Shuttle was damaged.
+The Rebel Kleeque-class transport attacks the Imperial Lambda-class T-4a Shuttle
+The Imperial Lambda-class T-4a Shuttle was damaged.
+The Imperial Lambda-class T-4a Shuttle attacks the Rebel Kleeque-class transport
+The Rebel Kleeque-class transport was damaged.
+The Imperial Lambda-class T-4a Shuttle attacks the Rebel Kleeque-class transport
+The Rebel Kleeque-class transport was destroyed.
+The Rebel YV-929 armed freighter attacks the Imperial Lambda-class T-4a Shuttle
+The Imperial Lambda-class T-4a Shuttle was destroyed.
+The Imperial Spiral-class Assault Ship attacks the Rebel YV-929 armed freighter
+The Rebel YV-929 armed freighter was damaged.
+The Rebel YV-929 armed freighter attacks the Imperial Spiral-class Assault Ship
+The Imperial Spiral-class Assault Ship was destroyed.
+The Rebel YV-929 armed freighter attacks the Imperial Imperial-class Star Destroyer Mark III
+The Imperial Imperial-class Star Destroyer Mark III was destroyed.
+The Imperial Curich-class Shuttle attacks the Rebel YV-929 armed freighter
+The Rebel YV-929 armed freighter was destroyed.
+The Rebel Nu-class attack shuttle attacks the Imperial Curich-class Shuttle
+The Imperial Curich-class Shuttle was damaged.
+The Imperial Curich-class Shuttle attacks the Rebel Nu-class attack shuttle
+The Rebel Nu-class attack shuttle was damaged.
+The Rebel Nu-class attack shuttle attacks the Imperial Curich-class Shuttle
+The Imperial Curich-class Shuttle was damaged.
+The Imperial Curich-class Shuttle attacks the Rebel Nu-class attack shuttle
+The Rebel Nu-class attack shuttle was damaged.
+The Imperial Curich-class Shuttle attacks the Rebel Nu-class attack shuttle
+The Rebel Nu-class attack shuttle was destroyed.
+The Imperial Curich-class Shuttle attacks the Rebel Muurian transport
+The Rebel Muurian transport was damaged.
+The Rebel Muurian transport attacks the Imperial Curich-class Shuttle
+The Imperial Curich-class Shuttle was destroyed.
+The Imperial TIE Oppressor attacks the Rebel Muurian transport
+The Rebel Muurian transport was damaged.
+The Rebel Muurian transport attacks the Imperial TIE Oppressor
+The Imperial TIE Oppressor was destroyed.
+The Rebel Muurian transport attacks the Imperial V-38 Sentinel
+The Imperial V-38 Sentinel was damaged.
+The Imperial V-38 Sentinel attacks the Rebel Muurian transport
+The Rebel Muurian transport was destroyed.
+The Imperial V-38 Sentinel attacks the Rebel YV-330 light freighter
+The Rebel YV-330 light freighter was damaged.
+The Rebel YV-330 light freighter attacks the Imperial V-38 Sentinel
+The Imperial V-38 Sentinel was destroyed.
+The Imperial Decimation-class Super Star Destroyer attacks the Rebel YV-330 light freighter
+The Rebel YV-330 light freighter was destroyed.
+The Rebel Assault Frigate Mark I attacks the Imperial Decimation-class Super Star Destroyer
+The Imperial Decimation-class Super Star Destroyer was destroyed.
+The Rebel Assault Frigate Mark I attacks the Imperial Imperial-class Star Destroyer Mark II
+The Imperial Imperial-class Star Destroyer Mark II was destroyed.
+The Rebel Assault Frigate Mark I attacks the Imperial Arc-class Assault Ship
+The Imperial Arc-class Assault Ship was destroyed.
+You win!!!

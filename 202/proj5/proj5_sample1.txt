@@ -1,0 +1,34 @@
+./proj5 proj5_imperial.txt proj5_rebel.txt
+Welcome to Star Wars
+Ships loaded
+How many ships would you like on a team? 5
+The battle begins...
+The Rebel Corona-class transport attacks the Imperial Imperial Customs Frigate
+The Imperial Imperial Customs Frigate was damaged.
+The Imperial Imperial Customs Frigate attacks the Rebel Corona-class transport
+The Rebel Corona-class transport was damaged.
+The Imperial Imperial Customs Frigate attacks the Rebel Corona-class transport
+The Rebel Corona-class transport was destroyed.
+The Rebel Munificent-class star frigate attacks the Imperial Imperial Customs Frigate
+The Imperial Imperial Customs Frigate was destroyed.
+The Imperial Star Galleon-class Frigate attacks the Rebel Munificent-class star frigate
+The Rebel Munificent-class star frigate was destroyed.
+The Imperial Star Galleon-class Frigate attacks the Rebel MC-18 light freighter
+The Rebel MC-18 light freighter was destroyed.
+The Imperial Star Galleon-class Frigate attacks the Rebel Darvro-class light freighter
+The Rebel Darvro-class light freighter was damaged.
+The Rebel Darvro-class light freighter attacks the Imperial Star Galleon-class Frigate
+The Imperial Star Galleon-class Frigate was destroyed.
+The Imperial Escort Carrier attacks the Rebel Darvro-class light freighter
+The Rebel Darvro-class light freighter was destroyed.
+The Rebel Kesselian blockade runner attacks the Imperial Escort Carrier
+The Imperial Escort Carrier was damaged.
+The Imperial Escort Carrier attacks the Rebel Kesselian blockade runner
+The Rebel Kesselian blockade runner was damaged.
+The Rebel Kesselian blockade runner attacks the Imperial Escort Carrier
+The Imperial Escort Carrier was damaged.
+The Imperial Escort Carrier attacks the Rebel Kesselian blockade runner
+The Rebel Kesselian blockade runner was damaged.
+The Imperial Escort Carrier attacks the Rebel Kesselian blockade runner
+The Rebel Kesselian blockade runner was destroyed.
+The enemy wins!!!

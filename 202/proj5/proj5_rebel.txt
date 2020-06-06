@@ -1,0 +1,123 @@
+Acclamator-class assault ship,Assault,47,35
+Action VI transport,Transport,50,65
+Aegis-class combat shuttle,Shuttle,25,90
+Alderaanian gunship,Assault,56,28
+Alderaanian War Frigate,Assault,49,20
+Assault Frigate Mark I,Assault,60,23
+Assault Frigate Mark II,Assault,63,28
+Beta-class ETR-3 escort transport,Transport,37,80
+Braha'tok-class gunship,Assault,62,28
+Brayl-class bulk freighter,Transport,44,77
+Bulwark Mark III,Assault,56,30
+Cargo orbiter,Transport,40,60
+Cargo tanker,Transport,38,75
+Carrack-class light cruiser,Assault,53,39
+CC-7700 frigate,Assault,66,40
+CC-9600 frigate,Assault,44,39
+City-ship,Assault,67,30
+Class VI bulk freighter,Transport,50,75
+Consular-class cruiser,Assault,49,30
+Container transport,Transport,34,62
+Corellian heavy lifter,Transport,32,66
+Corona-class transport,Transport,45,74
+CR70 corvette,Assault,47,21
+CR90 corvette,Assault,52,22
+CR92a Assassin-class corvette,Assault,49,37
+Crinya-class freighter,Transport,35,70
+CSS-1 Corellian Star Shuttle,Assault,69,37
+Darvro-class light freighter,Transport,37,63
+Dauntless-class heavy cruiser,Assault,49,39
+Delta-class DX-9 stormtrooper transport,Transport,44,79
+DP20 frigate,Assault,52,30
+DP20 Frigate,Assault,53,23
+Dreadnaught-class heavy cruiser,Assault,52,35
+EF76 Nebulon-B escort frigate,Assault,60,34
+Freighter Type C,Transport,41,77
+Freighter Type H,Transport,37,80
+Freighter Type K,Transport,43,70
+Gamma-class ATR-6 assault transport,Transport,38,67
+Golan Ribbon tanker,Transport,50,73
+Gozanti Cruiser,Assault,60,36
+GR-75 Combat Retrofit,Assault,41,22
+GR-75 medium transport,Transport,48,80
+GR-75 medium transport,Transport,31,68
+Heavy Lifter,Transport,31,64
+HT-2200 medium freighter,Transport,48,65
+ILH-KK Citadel-class civilian cruiser,Shuttle,29,99
+Imperial Assault Shuttle,Shuttle,21,96
+Imperial I-class Star Destroyer,Assault,61,33
+Imperial II-class Star Destroyer,Assault,56,26
+IPV-1 System Patrol Craft,Assault,63,37
+Kesselian blockade runner,Transport,38,68
+Kleeque-class transport,Transport,30,79
+Lambda-class T-4a shuttle,Shuttle,21,82
+Lancer-class frigate,Assault,46,28
+Liberator-class cruiser,Assault,47,30
+Light Corvette,Assault,43,26
+Lucrehulk-class battleship,Assault,51,20
+Lucrehulk-class Battleship,Assault,66,30
+Lucrehulk-class LH-3210 cargo freighter,Transport,49,74
+Maelstrom-class battle cruiser,Assault,62,28
+Mansk-class light escort frigate,Assault,50,23
+Marauder-class corvette,Assault,47,23
+Marsheem-class heavy cruiser,Assault,66,38
+MC-18 light freighter,Assault,65,27
+MC30c frigate,Assault,56,23
+MC40a light cruiser,Assault,68,25
+MC75 Armored Cruiser,Assault,58,39
+MC75 cruiser,Assault,47,24
+MC75 Ordnance Cruiser,Assault,68,31
+MC80 Home One type Star Cruiser,Assault,50,21
+MC80 Liberty type Star Cruiser,Assault,70,23
+MC80 Star Cruiser,Assault,54,40
+MC80 star cruiser,Assault,45,37
+MC80a Star Cruiser,Assault,61,20
+MC80a star cruiser,Assault,47,36
+Modified Strike Cruiser,Assault,70,24
+Modular conveyor,Transport,40,64
+Mon Calamari Star Cruiser,Assault,62,33
+Moonspeeder,Shuttle,31,88
+MT/191 drop-ship,Transport,38,66
+Munificent-class star frigate,Assault,53,35
+Muurian transport,Transport,34,78
+Nebulon-B2 frigate,Assault,46,30
+Neutron Star-class bulk cruiser,Assault,47,26
+Nu-class attack shuttle,Shuttle,34,80
+Pathfinder-class scout ship,Assault,58,35
+Pelta-class Assault Ship,Assault,55,37
+Pelta-class Command Ship,Assault,55,35
+Pelta-class frigate,Assault,62,33
+Providence-class carrier,Assault,50,20
+Quasar Fire-class bulk cruiser,Assault,48,23
+Quasar Fire-class cruiser-carrier,Assault,64,29
+Rebel Alliance Transport,Transport,46,72
+Rebel smuggling ship,Transport,39,66
+Recusant-class light destroyer,Assault,53,22
+Rho-class shuttle,Shuttle,22,80
+RM-09 Alliance shuttle,Shuttle,40,92
+RZ-1T trainer,Shuttle,33,84
+Sentinel-class landing craft,Shuttle,33,88
+Ship of the Line,Assault,66,21
+Sigma-class shuttle,Shuttle,37,98
+Simiyiar-class light freighter,Transport,50,69
+Space ARC Star Cruiser,Assault,55,22
+Sphyrna-class corvette,Assault,70,30
+Spiral-class Assault Ship,Assault,48,35
+Sprint-class rescue craft,Shuttle,36,85
+Squad Pod,Shuttle,30,84
+Star Destroyer,Assault,55,31
+Strike-class medium cruiser,Assault,61,36
+T-1 shuttle,Shuttle,20,94
+Ton-Falk-class escort carrier,Assault,60,21
+Tsukkian water freighter,Transport,30,62
+Utility Tug,Transport,49,79
+Venator-class Star Destroyer,Assault,57,38
+Wolden-class shuttle,Shuttle,38,82
+X4 Gunship,Assault,68,21
+YM-2800 limpet ship,Assault,51,33
+YT-1300 light freighter,Transport,36,68
+YT-2000 light freighter,Transport,31,67
+YT-2400 light freighter,Transport,32,75
+YV-330 light freighter,Transport,50,77
+YV-929 armed freighter,Transport,49,64
+Zebulon-B frigate,Assault,59,20
