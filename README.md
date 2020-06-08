@@ -1,5 +1,5 @@
 # Projects
-A collection of my coding projects
+A collection of coding projects
 
 Graduated from University of Maryland, Baltimore County (UMBC) with a BS in Computer Science in May 2020
 
